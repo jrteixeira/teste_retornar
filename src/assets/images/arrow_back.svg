@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" width="40" height="40">
+	<title>arrow_back-svg</title>
+	<style>
+		.s0 { fill: #ffffff } 
+		.s1 { fill: none;stroke: #111719;stroke-linecap: round;stroke-linejoin: round;stroke-width: 1.5 } 
+	</style>
+	<g id="Layer">
+		<path id="Layer" class="s0" d="m27 1h-14c-6.6 0-12 5.4-12 12v14c0 6.6 5.4 12 12 12h14c6.6 0 12-5.4 12-12v-14c0-6.6-5.4-12-12-12z"/>
+	</g>
+	<path id="Layer" fill-rule="evenodd" class="s1" d="m22 14.7l-6 5 5.8 5"/>
+</svg>
