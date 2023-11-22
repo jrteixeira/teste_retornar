@@ -25,6 +25,7 @@ node 18 ou superior
 
 ## Observação
 Vou zerar a api para que o examinador tenha a experiencia de testar e verificar cada etapa da aplicação, entao a tela de pedidos nao listará nenhum pedido assim que o projeto for iniciado
+
 rota da api: https://655d34699f1e1093c5991bf6.mockapi.io/api/v1/order
 
 
